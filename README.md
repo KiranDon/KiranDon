@@ -1,5 +1,8 @@
 ### Hi there 👋
 ## This is Usha Kiran
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiranDon&theme=tokyonight)
+![KiranDon's github stats](https://github-readme-stats.vercel.app/api?username=KiranDon&show_icons=true&theme=tokyonight&line_height=33)
+
 <!--
 **KiranDon/KiranDon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
